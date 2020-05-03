@@ -2,47 +2,47 @@
     "Test": [
         {
             "userID": "1",
-            "Caller": "5148081280",
-            "Name": "Francois Beaulieu",
-            "Date": "DateTime(2020, 4, 8, 10, 30)",
-            "Description": "What if there was an app that could detect if something was a hot dog or not a hot dog?!",
-            "Company": "A",
-            "Avatar": "FB",
-            "Favorite": "true",
-            "Title": "Call from Francois Beaulieu"
+            "caller": "5148081280",
+            "name": "Francois Beaulieu",
+            "date": "DateTime(2020, 4, 8, 10, 30)",
+            "description": "What if there was an app that could detect if something was a hot dog or not a hot dog?!",
+            "company": "A",
+            "avatar": "FB",
+            "favorite": "true",
+            "title": "Call from Francois Beaulieu"
         },
         {
             "userID": "2",
-            "Caller": "5148081380",
-            "Name": "Roger Beauchamps",
-            "Date": "DateTime(2020, 4, 8, 11, 30)",
-            "Description": "Still haven't heard back, I have sent you many ideas. Let me know if you are interested.",
-            "Company": "B",
-            "Avatar": "RB",
-            "Favorite": "false",
-            "Title": "Call from Roger Beauchamps"
+            "caller": "5148081380",
+            "name": "Roger Beauchamps",
+            "date": "DateTime(2020, 4, 8, 11, 30)",
+            "description": "Still haven't heard back, I have sent you many ideas. Let me know if you are interested.",
+            "company": "B",
+            "avatar": "RB",
+            "favorite": "false",
+            "title": "Call from Roger Beauchamps"
         },
         {
             "userID": "3",
-            "Caller": "5148081480",
-            "Name": "Tania Belanger",
-            "Date": "DateTime(2020, 4, 8, 12, 30)",
-            "Description": "hat W2s do you need to complete taxes? I see the one from last year but not this year.",
-            "Company": "A",
-            "Avatar": "TB",
-            "Favorite": "true",
-            "Title": "Call from Tania Belanger"
+            "caller": "5148081480",
+            "name": "Tania Belanger",
+            "date": "DateTime(2020, 4, 8, 12, 30)",
+            "description": "hat W2s do you need to complete taxes? I see the one from last year but not this year.",
+            "company": "A",
+            "avatar": "TB",
+            "favorite": "true",
+            "title": "Call from Tania Belanger"
         },
         {
             "userID": "4",
-            "Caller": "5148081580",
-            "Name": "Stephanie Dion",
-            "Date": "DateTime(2020, 4, 8, 9, 30)",
-            "Description": "What if there was an app that could detect if something was a hot dog or not a hot dog?",
-            "Company": "C",
-            "Avatar": "SD",
-            "Favorite": "false",
-            "Title": "Call from Stephane Dion"
+            "caller": "5148081580",
+            "name": "Stephanie Dion",
+            "date": "DateTime(2020, 4, 8, 9, 30)",
+            "description": "What if there was an app that could detect if something was a hot dog or not a hot dog?",
+            "company": "C",
+            "avatar": "SD",
+            "favorite": "false",
+            "title": "Call from Stephane Dion"
         }
     ]
 }
