@@ -9,7 +9,8 @@
             "company": "A",
             "avatar": "FB",
             "favorite": "true",
-            "title": "Call from Francois Beaulieu"
+            "title": "Call from Francois Beaulieu",
+            "body": "What if there was an app that could detect if something was a hot dog or not a hot dog?!"
         },
         {
             "userID": "2",
@@ -20,7 +21,8 @@
             "company": "B",
             "avatar": "RB",
             "favorite": "false",
-            "title": "Call from Roger Beauchamps"
+            "title": "Call from Roger Beauchamps",
+            "body": "Still haven't heard back, I have sent you many ideas. Let me know if you are interested."
         },
         {
             "userID": "3",
@@ -31,7 +33,8 @@
             "company": "A",
             "avatar": "TB",
             "favorite": "true",
-            "title": "Call from Tania Belanger"
+            "title": "Call from Tania Belanger",
+            "body": "hat W2s do you need to complete taxes? I see the one from last year but not this year."
         },
         {
             "userID": "4",
@@ -42,7 +45,8 @@
             "company": "C",
             "avatar": "SD",
             "favorite": "false",
-            "title": "Call from Stephane Dion"
+            "title": "Call from Stephane Dion",
+            "body": "What if there was an app that could detect if something was a hot dog or not a hot dog?"
         }
     ]
 }
