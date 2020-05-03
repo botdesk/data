@@ -4,37 +4,45 @@
             "userID": "1",
             "Caller": "5148081280",
             "Name": "Francois Beaulieu",
-            "Date": "2020-04-20 14:18:04Z",
-            "Description": "Jecris nimporte quoi pour donner un exmple",
+            "Date": "DateTime(2020, 4, 8, 10, 30)",
+            "Description": "What if there was an app that could detect if something was a hot dog or not a hot dog?!",
             "Company": "A",
-            "Avatar": "FB"
+            "Avatar": "FB",
+            "Favorite": "true",
+            "Title": "Call from Francois Beaulieu"
         },
         {
             "userID": "2",
             "Caller": "5148081380",
             "Name": "Roger Beauchamps",
-            "Date": "2020-04-20 15:18:04Z",
-            "Description": "Jecris nimporte quoi pour donner un exmple",
+            "Date": "DateTime(2020, 4, 8, 11, 30)",
+            "Description": "Still haven't heard back, I have sent you many ideas. Let me know if you are interested.",
             "Company": "B",
-            "Avatar": "RB"
+            "Avatar": "RB",
+            "Favorite": "false",
+            "Title": "Call from Roger Beauchamps"
         },
         {
             "userID": "3",
             "Caller": "5148081480",
             "Name": "Tania Belanger",
-            "Date": "2020-04-20 14:20:04Z",
-            "Description": "Jecris nimporte quoi pour donner un exmple",
+            "Date": "DateTime(2020, 4, 8, 12, 30)",
+            "Description": "hat W2s do you need to complete taxes? I see the one from last year but not this year.",
             "Company": "A",
-            "Avatar": "TB"
+            "Avatar": "TB",
+            "Favorite": "true",
+            "Title": "Call from Tania Belanger"
         },
         {
             "userID": "4",
             "Caller": "5148081580",
             "Name": "Stephanie Dion",
-            "Date": "2020-04-20 15:22:04Z",
-            "Description": "Jecris nimporte quoi pour donner un exmple",
+            "Date": "DateTime(2020, 4, 8, 9, 30)",
+            "Description": "What if there was an app that could detect if something was a hot dog or not a hot dog?",
             "Company": "C",
-            "Avatar": "SD"
+            "Avatar": "SD",
+            "Favorite": "false",
+            "Title": "Call from Stephane Dion"
         }
     ]
 }
